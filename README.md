@@ -3,6 +3,8 @@
 Transform any document into an interactive thinking simulator. Upload a PDF, DOCX, TXT, or MD file and AgoraAi builds a knowledge graph, runs AI-powered debates, simulates real-world scenarios, generates exams, and assists academic research — all powered by **Groq LLaMA-3.3-70B-Versatile**.
 
 ---
+# ▶️ Live App of the AgoraAi 👇
+https://agoraai-kzcpgbfsskh5ygpshxez2y.streamlit.app/
 
 ## 🚀 Features
 
